@@ -1,0 +1,9 @@
+.weather {
+    font-size: 2rem;
+    display: flex;
+    justify-content: flex-end;
+    color:rgb(45, 183, 237);
+}
+.temp {
+    font-size: 3rem;
+}
